@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Comerce12/static/css/main.309175d9.css",
+    "main.js": "/Comerce12/static/js/main.48e87262.js",
+    "static/js/787.39bb0775.chunk.js": "/Comerce12/static/js/787.39bb0775.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Comerce12/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/Comerce12/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/Comerce12/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/—Pngtree—yellow vector sunshine clipart_4236310.png": "/Comerce12/static/media/—Pngtree—yellow vector sunshine clipart_4236310.00b46073347e5cea164c.png",
+    "static/media/fa-brands-400.woff2": "/Comerce12/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/Comerce12/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/Comerce12/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/search.png": "/Comerce12/static/media/search.3f736d0420df331eaed8.png",
+    "static/media/shopping-cart.png": "/Comerce12/static/media/shopping-cart.65f7c83b158145a014aa.png",
+    "static/media/coolant.png": "/Comerce12/static/media/coolant.78cffddbfe258cbafa8d.png",
+    "static/media/user.png": "/Comerce12/static/media/user.e1f9c0a7c2cf1c7b73a6.png",
+    "static/media/house.png": "/Comerce12/static/media/house.640d0b1e39b36fd2550c.png",
+    "static/media/fa-v4compatibility.ttf": "/Comerce12/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Comerce12/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Comerce12/index.html",
+    "main.309175d9.css.map": "/Comerce12/static/css/main.309175d9.css.map",
+    "main.48e87262.js.map": "/Comerce12/static/js/main.48e87262.js.map",
+    "787.39bb0775.chunk.js.map": "/Comerce12/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.309175d9.css",
+    "static/js/main.48e87262.js"
+  ]
+}
